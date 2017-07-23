@@ -1,6 +1,6 @@
 # Simple-Computer-Network-in-Java
 
-This is project for Computer Networks Course implemented in Java
+This project demonstrates working of a Local Area Network which has 1 **Router** which has enabled and is connected to 2 **Switches**,1 **HTTP** Server and 1 **DNS** Server.Each of the switch has 5 hosts connected to them and these hosts can ping to any other device in the networks and can make HTTP request and DNS request. 
 
 Classes: 
 1. **Router** ( DHCP enabled):
